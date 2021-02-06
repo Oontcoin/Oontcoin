@@ -1,0 +1,11 @@
+[Protocol]
+exec=oontcoin-qt '%u'
+protocol=oontcoin
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false

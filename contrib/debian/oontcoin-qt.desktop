@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Oontcoin Core
+Comment=Oontcoin P2P Cryptocurrency
+Comment[de]=Verbinde mit dem Oontcoin peer-to-peer Netzwerk
+Comment[fr]=Oontcoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Oontcoin, eşten eşe kriptografik sanal para birimi
+Exec=oontcoin-qt %u
+Terminal=false
+Type=Application
+Icon=oontcoin128
+MimeType=x-scheme-handler/oontcoin;
+Categories=Office;Finance;

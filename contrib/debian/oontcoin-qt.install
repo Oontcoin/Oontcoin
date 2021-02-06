@@ -1,0 +1,6 @@
+usr/local/bin/oontcoin-qt usr/bin
+share/pixmaps/oontcoin32.xpm usr/share/pixmaps
+share/pixmaps/oontcoin16.xpm usr/share/pixmaps
+share/pixmaps/oontcoin128.png usr/share/pixmaps
+debian/oontcoin-qt.desktop usr/share/applications
+debian/oontcoin-qt.protocol usr/share/kde4/services/
